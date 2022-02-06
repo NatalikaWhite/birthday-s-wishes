@@ -1,0 +1,21 @@
+body {
+  background: rgba(71, 46, 119, 0.2)
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background: #472e77;
+  color: white;
+  font-size: 17px;
+  padding: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
